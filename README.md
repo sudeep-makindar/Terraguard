@@ -10,6 +10,7 @@
 Illegal sand mining is an organized crime destroying Tamil Nadu's river ecosystems, causing **₹4,700 Crore** in annual revenue loss and permanent groundwater collapse. **Sentinel** is an end-to-end IoT and Mobile ecosystem designed to meet the **Madras High Court’s March 31, 2026 mandate** for real-time mining tracking.
 
 ---
+<img width="2752" height="1536" alt="Gemini_Generated_Image_jrh9c2jrh9c2jrh9" src="https://github.com/user-attachments/assets/58c60eca-7c5f-4d98-9af9-500fcc45ba5c" />
 
 ## 🚀 Key Features
 
